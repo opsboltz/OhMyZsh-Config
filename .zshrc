@@ -3,7 +3,7 @@
 
 ##Simple functions put in
 
-plugins=(command-not-found history python sudo)
+plugins=(sudo z zsh-autosuggestions zsh-syntax-highlighting command-not-found history python sudo)
 
 editZsh(){
     updateYadm
